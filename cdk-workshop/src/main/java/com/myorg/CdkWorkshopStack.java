@@ -22,6 +22,6 @@ public class CdkWorkshopStack extends Stack {
 		final Topic topic = Topic.Builder.create(this, "CdkWorkshopTopic").displayName("My First Topic Yeah").build();
 
 		topic.addSubscription(new SqsSubscription(queue));
-		System.out.print(topic.getTopicName());
+		
 	}
 }
