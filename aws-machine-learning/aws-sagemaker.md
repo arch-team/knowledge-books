@@ -7,6 +7,13 @@
   - https://aws.amazon.com/jp/blogs/machine-learning/improving-performance-for-deep-learning-based-object-detection-with-an-aws-neuron-compiled-yolov4-model-on-aws-inferentia/
 - Now Available – EC2 Instances (G4) with NVIDIA T4 Tensor Core GPUs
   - https://aws.amazon.com/cn/blogs/aws/now-available-ec2-instances-g4-with-nvidia-t4-tensor-core-gpus/
+- Choosing the right GPU for deep learning on AWS
+  - https://towardsdatascience.com/choosing-the-right-gpu-for-deep-learning-on-aws-d69c157d8c86
+  - 说明：比较AWS各种机器学习机型的特点
+  - 推荐指数：5颗星
+  - https://pages.awscloud.com/rs/112-TZM-766/images/AL-ML%20for%20Startups%20-%20Select%20the%20Right%20ML%20Instance.pdf
+    - 对应的PDF版本
+
 
 ### AWS Inferentia 简介
 - 4 个 NeuronCores
